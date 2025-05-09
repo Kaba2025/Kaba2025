@@ -1,3 +1,5 @@
+## 👨‍💻 Qui suis-je ?
+![Ma photo](kabaphoto.jpg)
 # 👋 Salut, je suis Kaba Mahamoud Toib
 
 🎓 Étudiant en Master 2 Statistique, Économétrie et Data Science à l’INSEEDS  
